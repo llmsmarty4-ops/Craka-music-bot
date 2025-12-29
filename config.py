@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TEAMRIYA/RiyaMusic",
+    "https://github.com/llmsmarty4-ops/Craka-music-bot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -41,7 +41,7 @@ GIT_TOKEN = getenv(
 
 
 API_KEY = getenv("API_KEY", "")
-API_BASE_URL = getenv("API_BASE_URL", "http://riyabots.site")
+API_BASE_URL = getenv("API_BASE_URL", "htt")
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RiyaUpdates")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Riya_chat_Support")
